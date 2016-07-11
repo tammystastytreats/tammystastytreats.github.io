@@ -5,7 +5,7 @@ title: Breakfast Burritos
 
 Recipe for breakfast burritos
 
-###Ingredients
+### Ingredients
 
 * Packet Maple Sausage
 * 9 Eggs
@@ -13,7 +13,7 @@ Recipe for breakfast burritos
 * Package Flour Tortillas (Burrito Size)
 * Sour Cream
 
-###Directions
+### Directions
 
 Brown the sausage in a large skillet over medium-high heat. Break the meat into small pieces while browning. Drain fat after cooked.
 Place cooked sausage in oven safe dish and place in oven at about 170 degrees.
