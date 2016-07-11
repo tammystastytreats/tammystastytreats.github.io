@@ -1,0 +1,132 @@
+---
+id: 615
+title: Taco Dip
+date: 2014-01-12T16:49:21+00:00
+author: Krove
+layout: page
+guid: http://www.tammystastytreats.com/?page_id=615
+Hide SexyBookmarks:
+  - 0
+Hide OgTags:
+  - 0
+gmc_local_page_id:
+  - 79
+---
+<div id="recipes">
+  <div class="gmc-recipe" id="gmc-print-79" itemscope itemtype="http://schema.org/Recipe" style="background-color:#009999; border-color:#58528f;border-style:solid;border-width:thin;">
+    <meta property="og:site_name" content="http://tammystastytreats.iblogger.org" />
+    
+    <h2 class="gmc-recipe-title " itemprop="name">
+      Taco Dip
+    </h2>
+    
+    <div class="gmc-print-area">
+      <a class="gmc-print-options gmc-print-hidden" href="#" id="gmc-print-text-79"><img src="http://tammystastytreats.iblogger.org/wp-content/plugins/getmecooking-recipe-template/images/print.png" />Print recipe</a>
+    </div>
+    
+    <div class="gmc-clear-both">
+    </div>
+    
+    <div class="gmc-recipe-main-photo">
+      <a class="thickbox" href="" rel=""> </a>
+    </div>
+    
+    <table class="gmc-recipe-summary no-main-photo">
+      <tr>
+        <td class="gmc-heading">
+          Prep time
+        </td>
+        
+        <td class="gmc-summary-value" content="PT1M" itemprop="prepTime">
+          1 minute
+        </td>
+      </tr>
+      
+      <tr>
+        <td class="gmc-heading">
+          Cook time
+        </td>
+        
+        <td class="gmc-summary-value" content="PT15M" itemprop="cookTime">
+          15 minutes
+        </td>
+      </tr>
+      
+      <tr>
+        <td class="gmc-heading">
+          Total time
+        </td>
+        
+        <td class="gmc-summary-value" content="PT16M" itemprop="totalTime">
+          16 minutes
+        </td>
+      </tr>
+      
+      <tr>
+        <td class="gmc-heading">
+          Meal type
+        </td>
+        
+        <td class="gmc-summary-value">
+          <span itemprop="recipeCategory">Main Dish</span>
+        </td>
+      </tr>
+      
+      <tr>
+        <td class="gmc-heading">
+          Misc
+        </td>
+        
+        <td class="gmc-summary-value">
+          Child Friendly, Serve Hot
+        </td>
+      </tr>
+    </table>
+    
+    <div class="gmc-recipe-ingredients">
+      <h2 class="gmc-recipe-subtitle">
+        Ingredients
+      </h2>
+      
+      <ul class="gmc-ingredient-list">
+        <li class="gmc-ingredient-list-item" itemprop="ingredients">
+          Taco Meat
+        </li>
+        <li class="gmc-ingredient-list-item" itemprop="ingredients">
+          Refried Beans
+        </li>
+        <li class="gmc-ingredient-list-item" itemprop="ingredients">
+          1 handful Cheese (Shredded (Whatever kind you use) I typically have Colby Jack.)
+        </li>
+        <li class="gmc-ingredient-list-item" itemprop="ingredients">
+          1 cup Sour Cream
+        </li>
+      </ul>
+    </div>
+    
+    <h2 class="gmc-recipe-subtitle">
+      Note
+    </h2>
+    
+    <p>
+      This dish is a way to use the leftovers from tacos the night before.<br /> I make sure to make enough for leftovers.
+    </p>
+    
+    <div class="gmc-recipe-steps">
+      <h2 class="gmc-recipe-subtitle">
+        Directions
+      </h2>
+      
+      <table class="gmc-step-list">
+        <tr class="gmc-step-list-item">
+          <td class="gmc-step-list-title">
+          </td>
+          
+          <td class="gmc-step-desc" itemprop="recipeInstructions">
+            Mix everything together in a pot. Heat until cheese is melted.
+          </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+</div>

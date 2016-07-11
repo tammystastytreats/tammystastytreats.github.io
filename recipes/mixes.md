@@ -1,0 +1,539 @@
+---
+id: 557
+title: Mixes
+date: 2014-01-12T13:25:58+00:00
+author: Krove
+layout: page
+guid: http://www.tammystastytreats.com/?page_id=557
+Hide SexyBookmarks:
+  - 0
+Hide OgTags:
+  - 0
+gmc_local_page_id:
+  - 494
+  - 507
+  - 519
+  - 530
+  - 546
+---
+<div id="recipes">
+  <h4>
+    I like to use mason jars to store these mixes.
+  </h4>
+  
+  <div id="enchilada_mix">
+    <div class="gmc-recipe" id="gmc-print-494" itemscope itemtype="http://schema.org/Recipe" style="background-color:#009999; border-color:#58528f;border-style:solid;border-width:thin;">
+      <meta property="og:site_name" content="http://tammystastytreats.iblogger.org" />
+      
+      <h2 class="gmc-recipe-title " itemprop="name">
+        Enchilada Sauce Mix
+      </h2>
+      
+      <div class="gmc-print-area">
+        <a class="gmc-print-options gmc-print-hidden" href="#" id="gmc-print-text-494"><img src="http://tammystastytreats.iblogger.org/wp-content/plugins/getmecooking-recipe-template/images/print.png" />Print recipe</a>
+      </div>
+      
+      <div class="gmc-clear-both">
+      </div>
+      
+      <div class="gmc-recipe-main-photo">
+        <a class="thickbox" href="" rel=""> </a>
+      </div>
+      
+      <table class="gmc-recipe-summary no-main-photo">
+      </table>
+      
+      <div class="gmc-recipe-ingredients">
+        <h2 class="gmc-recipe-subtitle">
+          Ingredients
+        </h2>
+        
+        <ul class="gmc-ingredient-list">
+        </ul>
+        
+        <h3 class="gmc-recipe-subtitle">
+          Seasoning mix
+        </h3>
+        
+        <ul class="gmc-ingredient-list">
+          <li class="gmc-ingredient-list-item" itemprop="ingredients">
+            6 tablespoons Corn starch
+          </li>
+          <li class="gmc-ingredient-list-item" itemprop="ingredients">
+            3/4 cups Chili powder
+          </li>
+          <li class="gmc-ingredient-list-item" itemprop="ingredients">
+            1/8 cup Cumin
+          </li>
+          <li class="gmc-ingredient-list-item" itemprop="ingredients">
+            1/8 cup Garlic powder
+          </li>
+          <li class="gmc-ingredient-list-item" itemprop="ingredients">
+            1/8 cup Onion salt
+          </li>
+          <li class="gmc-ingredient-list-item" itemprop="ingredients">
+            1/8 cup Chicken bullion
+          </li>
+        </ul>
+        
+        <h3 class="gmc-recipe-subtitle">
+          Sauce
+        </h3>
+        
+        <ul class="gmc-ingredient-list">
+          <li class="gmc-ingredient-list-item" itemprop="ingredients">
+            1 can Tomato paste
+          </li>
+          <li class="gmc-ingredient-list-item" itemprop="ingredients">
+            1/2 cup Seasoning mix
+          </li>
+          <li class="gmc-ingredient-list-item" itemprop="ingredients">
+            1 1/2 cup Water
+          </li>
+        </ul>
+      </div>
+      
+      <div class="gmc-recipe-steps">
+        <h2 class="gmc-recipe-subtitle">
+          Directions
+        </h2>
+        
+        <table class="gmc-step-list">
+          <tr>
+            <td class="gmc-group-list-title" colspan="2">
+              Seasoning mix
+            </td>
+          </tr>
+          
+          <tr class="gmc-step-list-item">
+            <td class="gmc-step-list-title">
+            </td>
+            
+            <td class="gmc-step-desc" itemprop="recipeInstructions">
+              Mix seasonings together in large baggie. Store in baggie or container with lid.
+            </td>
+          </tr>
+          
+          <tr class="gmc-step-list-item">
+            <td class="gmc-step-list-title">
+            </td>
+            
+            <td class="gmc-step-desc" itemprop="recipeInstructions">
+              In large skillet mix 1/2 cup of the seasoning mix with one 16 oz can of tomato paste and 1 1/2 cups of water.
+            </td>
+          </tr>
+          
+          <tr class="gmc-step-list-item">
+            <td class="gmc-step-list-title">
+            </td>
+            
+            <td class="gmc-step-desc" itemprop="recipeInstructions">
+              Stir until smooth; Simmer 10 minutes or wait until slightly thickened.
+            </td>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </div>
+  
+  <p>
+    &nbsp;
+  </p>
+  
+  <div id="fajita_mix">
+    <div class="gmc-recipe" id="gmc-print-507" itemscope itemtype="http://schema.org/Recipe" style="background-color:#009999; border-color:#58528f;border-style:solid;border-width:thin;">
+      <meta property="og:site_name" content="http://tammystastytreats.iblogger.org" />
+      
+      <h2 class="gmc-recipe-title " itemprop="name">
+        Fajita Mix
+      </h2>
+      
+      <div class="gmc-print-area">
+        <a class="gmc-print-options gmc-print-hidden" href="#" id="gmc-print-text-507"><img src="http://tammystastytreats.iblogger.org/wp-content/plugins/getmecooking-recipe-template/images/print.png" />Print recipe</a>
+      </div>
+      
+      <div class="gmc-clear-both">
+      </div>
+      
+      <div class="gmc-recipe-main-photo">
+        <a class="thickbox" href="" rel=""> </a>
+      </div>
+      
+      <table class="gmc-recipe-summary no-main-photo">
+      </table>
+      
+      <div class="gmc-recipe-ingredients">
+        <h2 class="gmc-recipe-subtitle">
+          Ingredients
+        </h2>
+        
+        <ul class="gmc-ingredient-list">
+          <li class="gmc-ingredient-list-item" itemprop="ingredients">
+            6 tablespoons Corn starch
+          </li>
+          <li class="gmc-ingredient-list-item" itemprop="ingredients">
+            2-3 tablespoons Chili powder
+          </li>
+          <li class="gmc-ingredient-list-item" itemprop="ingredients">
+            1 tablespoon Salt
+          </li>
+          <li class="gmc-ingredient-list-item" itemprop="ingredients">
+            1 tablespoon Sugar
+          </li>
+          <li class="gmc-ingredient-list-item" itemprop="ingredients">
+            1 tablespoon Paprika
+          </li>
+          <li class="gmc-ingredient-list-item" itemprop="ingredients">
+            1 tablespoon Onion powder
+          </li>
+          <li class="gmc-ingredient-list-item" itemprop="ingredients">
+            1 tablespoon Garlic powder
+          </li>
+          <li class="gmc-ingredient-list-item" itemprop="ingredients">
+            1 tablespoon Cayenne
+          </li>
+          <li class="gmc-ingredient-list-item" itemprop="ingredients">
+            1 tablespoon Cumin
+          </li>
+          <li class="gmc-ingredient-list-item" itemprop="ingredients">
+            2 tablespoons Chicken or Beef bullion cubes (4-6 cubes. I match the flavor to the meat being cooked for the fajitas.)
+          </li>
+        </ul>
+      </div>
+      
+      <div class="gmc-recipe-steps">
+        <h2 class="gmc-recipe-subtitle">
+          Directions
+        </h2>
+        
+        <table class="gmc-step-list">
+          <tr class="gmc-step-list-item">
+            <td class="gmc-step-list-title">
+            </td>
+            
+            <td class="gmc-step-desc" itemprop="recipeInstructions">
+              Mix all ingredients in large baggie. Store in baggie or container with lid.
+            </td>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </div>
+  
+  <p>
+  </p>
+  
+  <div id="taco_mix">
+    <div class="gmc-recipe" id="gmc-print-519" itemscope itemtype="http://schema.org/Recipe" style="background-color:#009999; border-color:#58528f;border-style:solid;border-width:thin;">
+      <meta property="og:site_name" content="http://tammystastytreats.iblogger.org" />
+      
+      <h2 class="gmc-recipe-title " itemprop="name">
+        Taco Mix
+      </h2>
+      
+      <div class="gmc-print-area">
+        <a class="gmc-print-options gmc-print-hidden" href="#" id="gmc-print-text-519"><img src="http://tammystastytreats.iblogger.org/wp-content/plugins/getmecooking-recipe-template/images/print.png" />Print recipe</a>
+      </div>
+      
+      <div class="gmc-clear-both">
+      </div>
+      
+      <div class="gmc-recipe-main-photo">
+        <a class="thickbox" href="" rel=""> </a>
+      </div>
+      
+      <table class="gmc-recipe-summary no-main-photo">
+      </table>
+      
+      <div class="gmc-recipe-ingredients">
+        <h2 class="gmc-recipe-subtitle">
+          Ingredients
+        </h2>
+        
+        <ul class="gmc-ingredient-list">
+          <li class="gmc-ingredient-list-item" itemprop="ingredients">
+            3 tablespoons Salt
+          </li>
+          <li class="gmc-ingredient-list-item" itemprop="ingredients">
+            1/2 cup Chili powder
+          </li>
+          <li class="gmc-ingredient-list-item" itemprop="ingredients">
+            1/3 cup Paprika
+          </li>
+          <li class="gmc-ingredient-list-item" itemprop="ingredients">
+            4 tablespoons Corn starch
+          </li>
+          <li class="gmc-ingredient-list-item" itemprop="ingredients">
+            4 tablespoons Onion powder
+          </li>
+          <li class="gmc-ingredient-list-item" itemprop="ingredients">
+            4 tablespoons Garlic powder
+          </li>
+          <li class="gmc-ingredient-list-item" itemprop="ingredients">
+            1/3 cup Cumin
+          </li>
+          <li class="gmc-ingredient-list-item" itemprop="ingredients">
+            1/4 cup Cayenne
+          </li>
+        </ul>
+      </div>
+      
+      <div class="gmc-recipe-steps">
+        <h2 class="gmc-recipe-subtitle">
+          Directions
+        </h2>
+        
+        <table class="gmc-step-list">
+          <tr class="gmc-step-list-item">
+            <td class="gmc-step-list-title">
+            </td>
+            
+            <td class="gmc-step-desc" itemprop="recipeInstructions">
+              Mix together in baggie. Store in baggie or container with lid.
+            </td>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </div>
+  
+  <p>
+  </p>
+  
+  <div id="ranch_mix">
+    <div class="gmc-recipe" id="gmc-print-530" itemscope itemtype="http://schema.org/Recipe" style="background-color:#009999; border-color:#58528f;border-style:solid;border-width:thin;">
+      <meta property="og:site_name" content="http://tammystastytreats.iblogger.org" />
+      
+      <h2 class="gmc-recipe-title " itemprop="name">
+        Ranch Mix
+      </h2>
+      
+      <div class="gmc-print-area">
+        <a class="gmc-print-options gmc-print-hidden" href="#" id="gmc-print-text-530"><img src="http://tammystastytreats.iblogger.org/wp-content/plugins/getmecooking-recipe-template/images/print.png" />Print recipe</a>
+      </div>
+      
+      <div class="gmc-clear-both">
+      </div>
+      
+      <div class="gmc-recipe-main-photo">
+        <a class="thickbox" href="" rel=""> </a>
+      </div>
+      
+      <table class="gmc-recipe-summary no-main-photo">
+        <tr>
+          <td class="gmc-heading">
+            Dietary
+          </td>
+          
+          <td class="gmc-summary-value">
+            Gluten Free
+          </td>
+        </tr>
+        
+        <tr>
+          <td class="gmc-heading">
+            Misc
+          </td>
+          
+          <td class="gmc-summary-value">
+            Pre-preparable
+          </td>
+        </tr>
+      </table>
+      
+      <div class="gmc-recipe-ingredients">
+        <h2 class="gmc-recipe-subtitle">
+          Ingredients
+        </h2>
+        
+        <ul class="gmc-ingredient-list">
+        </ul>
+        
+        <h3 class="gmc-recipe-subtitle">
+          Seasoning mix
+        </h3>
+        
+        <ul class="gmc-ingredient-list">
+          <li class="gmc-ingredient-list-item" itemprop="ingredients">
+            1/4 cup Black pepper
+          </li>
+          <li class="gmc-ingredient-list-item" itemprop="ingredients">
+            1 1/2 cup Parsley (dried)
+          </li>
+          <li class="gmc-ingredient-list-item" itemprop="ingredients">
+            1/4 cup Garlic salt
+          </li>
+          <li class="gmc-ingredient-list-item" itemprop="ingredients">
+            2 tablespoons Salt
+          </li>
+          <li class="gmc-ingredient-list-item" itemprop="ingredients">
+            1/2 cup Garlic powder
+          </li>
+          <li class="gmc-ingredient-list-item" itemprop="ingredients">
+            3/4 cups Onion powder
+          </li>
+          <li class="gmc-ingredient-list-item" itemprop="ingredients">
+            3 tablespoons Dill
+          </li>
+        </ul>
+        
+        <h3 class="gmc-recipe-subtitle">
+          Dressing
+        </h3>
+        
+        <ul class="gmc-ingredient-list">
+          <li class="gmc-ingredient-list-item" itemprop="ingredients">
+            2 cups Milk
+          </li>
+          <li class="gmc-ingredient-list-item" itemprop="ingredients">
+            2 cups Mayo
+          </li>
+          <li class="gmc-ingredient-list-item" itemprop="ingredients">
+            2 cups Sour cream
+          </li>
+        </ul>
+        
+        <h3 class="gmc-recipe-subtitle">
+          Dip
+        </h3>
+        
+        <ul class="gmc-ingredient-list">
+          <li class="gmc-ingredient-list-item" itemprop="ingredients">
+            2 cups Sour cream
+          </li>
+        </ul>
+      </div>
+      
+      <div class="gmc-recipe-steps">
+        <h2 class="gmc-recipe-subtitle">
+          Directions
+        </h2>
+        
+        <table class="gmc-step-list">
+          <tr class="gmc-step-list-item">
+            <td class="gmc-step-list-title">
+            </td>
+            
+            <td class="gmc-step-desc" itemprop="recipeInstructions">
+              Mix all ingredients in large baggie. Store in baggie or in container with lid.
+            </td>
+          </tr>
+          
+          <tr>
+            <td class="gmc-group-list-title" colspan="2">
+              Ranch dressing
+            </td>
+          </tr>
+          
+          <tr class="gmc-step-list-item">
+            <td class="gmc-step-list-title">
+            </td>
+            
+            <td class="gmc-step-desc" itemprop="recipeInstructions">
+              Whisk 2 tablespoons mix with 2 cups each of mayo, milk, sour cream
+            </td>
+          </tr>
+          
+          <tr>
+            <td class="gmc-group-list-title" colspan="2">
+              Ranch Dip
+            </td>
+          </tr>
+          
+          <tr class="gmc-step-list-item">
+            <td class="gmc-step-list-title">
+            </td>
+            
+            <td class="gmc-step-desc" itemprop="recipeInstructions">
+              Mix 2 tablespoons mix with 2 cups of sour cream.
+            </td>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </div>
+  
+  <p>
+  </p>
+  
+  <div id="italian_mix">
+    <div class="gmc-recipe" id="gmc-print-546" itemscope itemtype="http://schema.org/Recipe" style="background-color:#009999; border-color:#58528f;border-style:solid;border-width:thin;">
+      <meta property="og:site_name" content="http://tammystastytreats.iblogger.org" />
+      
+      <h2 class="gmc-recipe-title " itemprop="name">
+        Italian Seasoning
+      </h2>
+      
+      <div class="gmc-print-area">
+        <a class="gmc-print-options gmc-print-hidden" href="#" id="gmc-print-text-546"><img src="http://tammystastytreats.iblogger.org/wp-content/plugins/getmecooking-recipe-template/images/print.png" />Print recipe</a>
+      </div>
+      
+      <div class="gmc-clear-both">
+      </div>
+      
+      <div class="gmc-recipe-main-photo">
+        <a class="thickbox" href="" rel=""> </a>
+      </div>
+      
+      <table class="gmc-recipe-summary no-main-photo">
+      </table>
+      
+      <div class="gmc-recipe-ingredients">
+        <h2 class="gmc-recipe-subtitle">
+          Ingredients
+        </h2>
+        
+        <ul class="gmc-ingredient-list">
+          <li class="gmc-ingredient-list-item" itemprop="ingredients">
+            1/4 cup Basil
+          </li>
+          <li class="gmc-ingredient-list-item" itemprop="ingredients">
+            1/4 cup Thyme
+          </li>
+          <li class="gmc-ingredient-list-item" itemprop="ingredients">
+            1/4 cup Oregano
+          </li>
+          <li class="gmc-ingredient-list-item" itemprop="ingredients">
+            1/4 cup Rosemary
+          </li>
+          <li class="gmc-ingredient-list-item" itemprop="ingredients">
+            1/4 cup Marjoram
+          </li>
+          <li class="gmc-ingredient-list-item" itemprop="ingredients">
+            2 tablespoons Sage
+          </li>
+        </ul>
+      </div>
+      
+      <div class="gmc-recipe-steps">
+        <h2 class="gmc-recipe-subtitle">
+          Directions
+        </h2>
+        
+        <table class="gmc-step-list">
+          <tr class="gmc-step-list-item">
+            <td class="gmc-step-list-title">
+            </td>
+            
+            <td class="gmc-step-desc" itemprop="recipeInstructions">
+              Mix together in food processor to desired consistency.
+            </td>
+          </tr>
+          
+          <tr class="gmc-step-list-item">
+            <td class="gmc-step-list-title">
+            </td>
+            
+            <td class="gmc-step-desc" itemprop="recipeInstructions">
+              Store in baggie or container with lid.
+            </td>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </div>
+  
+  <p>
+    &nbsp;
+  </p>
+</div>

@@ -1,0 +1,183 @@
+---
+id: 583
+title: Lasagna
+date: 2014-01-12T16:36:35+00:00
+author: Krove
+layout: page
+guid: http://www.tammystastytreats.com/?page_id=583
+Hide SexyBookmarks:
+  - 0
+Hide OgTags:
+  - 0
+gmc_local_page_id:
+  - 467
+---
+<div id="recipes">
+  <div class="gmc-recipe" id="gmc-print-467" itemscope itemtype="http://schema.org/Recipe" style="background-color:#009999; border-color:#58528f;border-style:solid;border-width:thin;">
+    <meta property="og:site_name" content="http://tammystastytreats.iblogger.org" />
+    
+    <h2 class="gmc-recipe-title " itemprop="name">
+      Lasagna
+    </h2>
+    
+    <div class="gmc-print-area">
+      <a class="gmc-print-options gmc-print-hidden" href="#" id="gmc-print-text-467"><img src="http://tammystastytreats.iblogger.org/wp-content/plugins/getmecooking-recipe-template/images/print.png" />Print recipe</a>
+    </div>
+    
+    <div class="gmc-clear-both">
+    </div>
+    
+    <div class="gmc-recipe-main-photo">
+      <a class="thickbox" href="" rel=""> </a>
+    </div>
+    
+    <table class="gmc-recipe-summary no-main-photo">
+    </table>
+    
+    <div class="gmc-recipe-ingredients">
+      <h2 class="gmc-recipe-subtitle">
+        Ingredients
+      </h2>
+      
+      <ul class="gmc-ingredient-list">
+        <li class="gmc-ingredient-list-item" itemprop="ingredients">
+          Spaghetti Sauce (See spaghetti recipe)
+        </li>
+        <li class="gmc-ingredient-list-item" itemprop="ingredients">
+          1 box Lasagna noodle
+        </li>
+        <li class="gmc-ingredient-list-item" itemprop="ingredients">
+          16oz Ricotta cheese
+        </li>
+        <li class="gmc-ingredient-list-item" itemprop="ingredients">
+          2 Eggs
+        </li>
+        <li class="gmc-ingredient-list-item" itemprop="ingredients">
+          1/4 cup Italian seasonings (See recipe)
+        </li>
+        <li class="gmc-ingredient-list-item" itemprop="ingredients">
+          2 cups Shredded mozzarella cheese
+        </li>
+        <li class="gmc-ingredient-list-item" itemprop="ingredients">
+          1 cup Shredded parmesean cheese
+        </li>
+      </ul>
+    </div>
+    
+    <div class="gmc-recipe-steps">
+      <h2 class="gmc-recipe-subtitle">
+        Directions
+      </h2>
+      
+      <table class="gmc-step-list">
+        <tr class="gmc-step-list-item">
+          <td class="gmc-step-list-title">
+          </td>
+          
+          <td class="gmc-step-desc" itemprop="recipeInstructions">
+            Make sauce.
+          </td>
+        </tr>
+        
+        <tr class="gmc-step-list-item">
+          <td class="gmc-step-list-title">
+          </td>
+          
+          <td class="gmc-step-desc" itemprop="recipeInstructions">
+            Boil noodles
+          </td>
+        </tr>
+        
+        <tr class="gmc-step-list-item">
+          <td class="gmc-step-list-title">
+          </td>
+          
+          <td class="gmc-step-desc" itemprop="recipeInstructions">
+            Lay noodles flat on aluminum foil to cool. (Save aluminum foil to cover lasagna.)
+          </td>
+        </tr>
+        
+        <tr class="gmc-step-list-item">
+          <td class="gmc-step-list-title">
+          </td>
+          
+          <td class="gmc-step-desc" itemprop="recipeInstructions">
+            Mix cheeses in bowl. Mix the ricotta, mozzarella, parmesan chesses with eggs, pepper and seasonings.
+          </td>
+        </tr>
+        
+        <tr class="gmc-step-list-item">
+          <td class="gmc-step-list-title">
+          </td>
+          
+          <td class="gmc-step-desc" itemprop="recipeInstructions">
+            Preheat oven to 350 degrees. Layer in lasagna pan or 9x13 pan.
+          </td>
+        </tr>
+        
+        <tr class="gmc-step-list-item">
+          <td class="gmc-step-list-title">
+          </td>
+          
+          <td class="gmc-step-desc" itemprop="recipeInstructions">
+            Start by spreading sauce mixture on bottom of pan, just enough to cover.
+          </td>
+        </tr>
+        
+        <tr class="gmc-step-list-item">
+          <td class="gmc-step-list-title">
+          </td>
+          
+          <td class="gmc-step-desc" itemprop="recipeInstructions">
+            Lay 4-5 noodles overlapping.
+          </td>
+        </tr>
+        
+        <tr class="gmc-step-list-item">
+          <td class="gmc-step-list-title">
+          </td>
+          
+          <td class="gmc-step-desc" itemprop="recipeInstructions">
+            Spread cheese mixture over noodles (About 1/2 of the mixture).
+          </td>
+        </tr>
+        
+        <tr class="gmc-step-list-item">
+          <td class="gmc-step-list-title">
+          </td>
+          
+          <td class="gmc-step-desc" itemprop="recipeInstructions">
+            Pour sauce mixture (about 1/3 of sauce)
+          </td>
+        </tr>
+        
+        <tr class="gmc-step-list-item">
+          <td class="gmc-step-list-title">
+          </td>
+          
+          <td class="gmc-step-desc" itemprop="recipeInstructions">
+            Repeat last three steps to top of pan.
+          </td>
+        </tr>
+        
+        <tr class="gmc-step-list-item">
+          <td class="gmc-step-list-title">
+          </td>
+          
+          <td class="gmc-step-desc" itemprop="recipeInstructions">
+            Top with noodle; remaining sauce; sprinkle shredded cheeses.
+          </td>
+        </tr>
+        
+        <tr class="gmc-step-list-item">
+          <td class="gmc-step-list-title">
+          </td>
+          
+          <td class="gmc-step-desc" itemprop="recipeInstructions">
+            Cover and bake for 45-60 minutes. Remove cover. Bake for an additional 10 minutes.(Til cheese is browned and bubbly).
+          </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+</div>
