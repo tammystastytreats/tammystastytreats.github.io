@@ -23,7 +23,7 @@ redirect:
     </h2>
     
     <div class="gmc-print-area">
-      <a class="gmc-print-options gmc-print-hidden" href="#" id="gmc-print-text-217"><img src="https://kreloc.github.io/wp-content/plugins/getmecooking-recipe-template/images/print.png" />Print recipe</a>
+      
     </div>
     
     <div class="gmc-clear-both">
