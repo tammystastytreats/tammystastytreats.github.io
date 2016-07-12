@@ -19,14 +19,14 @@ Hide OgTags:
 ---
 <div id="recipes">
   <div class="gmc-recipe" id="gmc-print-97" itemscope itemtype="http://schema.org/Recipe" style="background-color:#009999; border-color:#58528f;border-style:solid;border-width:thin;">
-    <meta property="og:site_name" content="http://tammystastytreats.iblogger.org" />
+    <meta property="og:site_name" content="https://kreloc.github.io" />
     
     <h2 class="gmc-recipe-title " itemprop="name">
       Mushroom Rice
     </h2>
     
     <div class="gmc-print-area">
-      <a class="gmc-print-options gmc-print-hidden" href="#" id="gmc-print-text-97"><img src="http://tammystastytreats.iblogger.org/wp-content/plugins/getmecooking-recipe-template/images/print.png" />Print recipe</a>
+      <a class="gmc-print-options gmc-print-hidden" href="#" id="gmc-print-text-97"><img src="https://kreloc.github.io/wp-content/plugins/getmecooking-recipe-template/images/print.png" />Print recipe</a>
     </div>
     
     <div class="gmc-clear-both">
@@ -149,14 +149,14 @@ Hide OgTags:
   <br /> 
   
   <div class="gmc-recipe" id="gmc-print-79" itemscope itemtype="http://schema.org/Recipe" style="background-color:#009999; border-color:#58528f;border-style:solid;border-width:thin;">
-    <meta property="og:site_name" content="http://tammystastytreats.iblogger.org" />
+    <meta property="og:site_name" content="https://kreloc.github.io" />
     
     <h2 class="gmc-recipe-title " itemprop="name">
       Taco Dip
     </h2>
     
     <div class="gmc-print-area">
-      <a class="gmc-print-options gmc-print-hidden" href="#" id="gmc-print-text-79"><img src="http://tammystastytreats.iblogger.org/wp-content/plugins/getmecooking-recipe-template/images/print.png" />Print recipe</a>
+      <a class="gmc-print-options gmc-print-hidden" href="#" id="gmc-print-text-79"><img src="https://kreloc.github.io/wp-content/plugins/getmecooking-recipe-template/images/print.png" />Print recipe</a>
     </div>
     
     <div class="gmc-clear-both">
@@ -268,14 +268,14 @@ Hide OgTags:
   <br /> 
   
   <div class="gmc-recipe" id="gmc-print-270" itemscope itemtype="http://schema.org/Recipe" style="background-color:#009999; border-color:#58528f;border-style:solid;border-width:thin;">
-    <meta property="og:site_name" content="http://tammystastytreats.iblogger.org" />
+    <meta property="og:site_name" content="https://kreloc.github.io" />
     
     <h2 class="gmc-recipe-title " itemprop="name">
       Manicotti/Jumbo Seashells & Cheese
     </h2>
     
     <div class="gmc-print-area">
-      <a class="gmc-print-options gmc-print-hidden" href="#" id="gmc-print-text-270"><img src="http://tammystastytreats.iblogger.org/wp-content/plugins/getmecooking-recipe-template/images/print.png" />Print recipe</a>
+      <a class="gmc-print-options gmc-print-hidden" href="#" id="gmc-print-text-270"><img src="https://kreloc.github.io/wp-content/plugins/getmecooking-recipe-template/images/print.png" />Print recipe</a>
     </div>
     
     <div class="gmc-clear-both">
@@ -437,14 +437,14 @@ Hide OgTags:
   <br /> 
   
   <div class="gmc-recipe" id="gmc-print-293" itemscope itemtype="http://schema.org/Recipe" style="background-color:#009999; border-color:#58528f;border-style:solid;border-width:thin;">
-    <meta property="og:site_name" content="http://tammystastytreats.iblogger.org" />
+    <meta property="og:site_name" content="https://kreloc.github.io" />
     
     <h2 class="gmc-recipe-title " itemprop="name">
       Pulled Pork with Root Beer Sauce
     </h2>
     
     <div class="gmc-print-area">
-      <a class="gmc-print-options gmc-print-hidden" href="#" id="gmc-print-text-293"><img src="http://tammystastytreats.iblogger.org/wp-content/plugins/getmecooking-recipe-template/images/print.png" />Print recipe</a>
+      <a class="gmc-print-options gmc-print-hidden" href="#" id="gmc-print-text-293"><img src="https://kreloc.github.io/wp-content/plugins/getmecooking-recipe-template/images/print.png" />Print recipe</a>
     </div>
     
     <div class="gmc-clear-both">
@@ -640,14 +640,14 @@ Hide OgTags:
   <br /> 
   
   <div class="gmc-recipe" id="gmc-print-328" itemscope itemtype="http://schema.org/Recipe" style="background-color:#009999; border-color:#58528f;border-style:solid;border-width:thin;">
-    <meta property="og:site_name" content="http://tammystastytreats.iblogger.org" />
+    <meta property="og:site_name" content="https://kreloc.github.io" />
     
     <h2 class="gmc-recipe-title " itemprop="name">
       Salmon Chowder
     </h2>
     
     <div class="gmc-print-area">
-      <a class="gmc-print-options gmc-print-hidden" href="#" id="gmc-print-text-328"><img src="http://tammystastytreats.iblogger.org/wp-content/plugins/getmecooking-recipe-template/images/print.png" />Print recipe</a>
+      <a class="gmc-print-options gmc-print-hidden" href="#" id="gmc-print-text-328"><img src="https://kreloc.github.io/wp-content/plugins/getmecooking-recipe-template/images/print.png" />Print recipe</a>
     </div>
     
     <div class="gmc-clear-both">
@@ -795,14 +795,14 @@ Hide OgTags:
   <br /> 
   
   <div class="gmc-recipe" id="gmc-print-348" itemscope itemtype="http://schema.org/Recipe" style="background-color:#009999; border-color:#58528f;border-style:solid;border-width:thin;">
-    <meta property="og:site_name" content="http://tammystastytreats.iblogger.org" />
+    <meta property="og:site_name" content="https://kreloc.github.io" />
     
     <h2 class="gmc-recipe-title " itemprop="name">
       White Bean Chicken Chili
     </h2>
     
     <div class="gmc-print-area">
-      <a class="gmc-print-options gmc-print-hidden" href="#" id="gmc-print-text-348"><img src="http://tammystastytreats.iblogger.org/wp-content/plugins/getmecooking-recipe-template/images/print.png" />Print recipe</a>
+      <a class="gmc-print-options gmc-print-hidden" href="#" id="gmc-print-text-348"><img src="https://kreloc.github.io/wp-content/plugins/getmecooking-recipe-template/images/print.png" />Print recipe</a>
     </div>
     
     <div class="gmc-clear-both">

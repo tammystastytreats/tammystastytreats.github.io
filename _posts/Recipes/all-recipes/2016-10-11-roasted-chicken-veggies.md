@@ -14,14 +14,14 @@ gmc_local_page_id:
 ---
 <div id="recipes">
   <div class="gmc-recipe" id="gmc-print-391" itemscope itemtype="http://schema.org/Recipe" style="background-color:#009999; border-color:#58528f;border-style:solid;border-width:thin;">
-    <meta property="og:site_name" content="http://tammystastytreats.iblogger.org" />
+    <meta property="og:site_name" content="https://kreloc.github.io" />
     
     <h2 class="gmc-recipe-title " itemprop="name">
       Roasted Chicken & Vegetables
     </h2>
     
     <div class="gmc-print-area">
-      <a class="gmc-print-options gmc-print-hidden" href="#" id="gmc-print-options-391"><img src="http://tammystastytreats.iblogger.org/wp-content/plugins/getmecooking-recipe-template/images/print.png" />Print recipe</a>
+      <a class="gmc-print-options gmc-print-hidden" href="#" id="gmc-print-options-391"><img src="https://kreloc.github.io/wp-content/plugins/getmecooking-recipe-template/images/print.png" />Print recipe</a>
       
       <ul class="gmc-print-options-box" id="gmc-print-options-box-391" style="display:none">
         <li>
@@ -37,7 +37,7 @@ gmc_local_page_id:
     </div>
     
     <div class="gmc-recipe-main-photo">
-      <a class="thickbox" href="http://tammystastytreats.iblogger.org/wp-content/uploads/2014/01/roasted_chicken_veggies-691x1024.jpg" rel="gmc-recipe-391"> <img width="202" height="300" src="http://tammystastytreats.iblogger.org/wp-content/uploads/2014/01/roasted_chicken_veggies-202x300.jpg" class="attachment-medium wp-post-image" alt="Roasted Chicken & Vegetables" itemprop="image" title="Roasted Chicken & Vegetables" /> </a>
+      <a class="thickbox" href="https://kreloc.github.io/wp-content/uploads/2014/01/roasted_chicken_veggies-691x1024.jpg" rel="gmc-recipe-391"> <img width="202" height="300" src="https://kreloc.github.io/wp-content/uploads/2014/01/roasted_chicken_veggies-202x300.jpg" class="attachment-medium wp-post-image" alt="Roasted Chicken & Vegetables" itemprop="image" title="Roasted Chicken & Vegetables" /> </a>
     </div>
     
     <table class="gmc-recipe-summary">
